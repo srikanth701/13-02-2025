@@ -1,0 +1,46 @@
+{
+  "sweets": [
+      {
+          "id": 1,
+          "name": "Chocolate Cake",
+          "type": "Cake",
+          "ingredients": ["Flour", "Sugar", "Cocoa Powder", "Eggs", "Butter", "Milk"],
+          "origin": "Worldwide"
+      },
+      {
+          "id": 2,
+          "name": "Gulab Jamun",
+          "type": "Fried Sweet",
+          "ingredients": ["Milk Solids", "Flour", "Sugar Syrup", "Cardamom", "Rose Water"],
+          "origin": "India"
+      },
+      {
+          "id": 3,
+          "name": "Baklava",
+          "type": "Pastry",
+          "ingredients": ["Phyllo Dough", "Honey", "Nuts", "Butter", "Sugar"],
+          "origin": "Turkey"
+      },
+      {
+          "id": 4,
+          "name": "Macaron",
+          "type": "Cookie",
+          "ingredients": ["Almond Flour", "Egg Whites", "Sugar", "Buttercream"],
+          "origin": "France"
+      },
+      {
+          "id": 5,
+          "name": "Tiramisu",
+          "type": "Dessert",
+          "ingredients": ["Mascarpone Cheese", "Eggs", "Sugar", "Espresso", "Ladyfingers", "Cocoa Powder"],
+          "origin": "Italy"
+      },
+      {
+          "id": 6,
+          "name": "Mochi",
+          "type": "Rice Cake",
+          "ingredients": ["Glutinous Rice", "Sugar", "Cornstarch", "Red Bean Paste"],
+          "origin": "Japan"
+      }
+  ]
+}
